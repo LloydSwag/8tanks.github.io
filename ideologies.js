@@ -1,12 +1,12 @@
 ideologies = [
 //Powder
     {
-        "name": "Clay",
+        "name": "Armoured Car",
         "stats": {
-            "econ": 0,
-            "dipl": 100,
-            "govt": 50,
-            "scty": 50
+            "econ": 90,
+            "dipl": 90,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
