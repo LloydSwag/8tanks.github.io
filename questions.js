@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": ".",
+        "question": "Tracks are more versatile than wheels.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "The material feels kind of smooth.",
+        "question": "Tank guns are more useful towards other vehicles.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -36,9 +36,9 @@ questions = [
         }
     },
     {
-        "question": "A crunchy sound is made when stepping on the material.",
+        "question": "Wheels are easier to maintain than tracks.",
         "effect": {
-            "econ": 5,
+            "econ": -5,
             "dipl": 0,
             "govt": 0,
             "scty": 0
