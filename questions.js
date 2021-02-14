@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "Modern tanks are better than older ones.",
+        "question": "Modern tanks are objectively better than older ones.",
         "effect": {
             "econ": 0,
             "dipl": 0,
