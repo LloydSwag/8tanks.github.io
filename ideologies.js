@@ -19,12 +19,12 @@ ideologies = [
         }
     },
     {
-        "name": "Loamy Sand",
+        "name": "Tankette",
         "stats": {
-            "econ": 80,
-            "dipl": 10,
-            "govt": 50,
-            "scty": 50
+            "econ": 20,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
