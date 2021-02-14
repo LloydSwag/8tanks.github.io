@@ -112,10 +112,10 @@ ideologies = [
     {
         "name": "N/A",
         "stats": {
-            "econ": 50,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 50
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
         }
     }
 ];
