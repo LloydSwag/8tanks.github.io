@@ -46,30 +46,30 @@ ideologies = [
         }
     },
     {
-        "name": "Sandy Clay",
+        "name": "Heavy Tank",
         "stats": {
             "econ": 70,
-            "dipl": 50,
+            "dipl": 61,
             "govt": 40,
-            "scty": 50
+            "scty": 0
         }
     },
     {
-        "name": "Loam",
+        "name": "Monster",
         "stats": {
-            "econ": 50,
-            "dipl": 30,
-            "govt": 65,
-            "scty": 50
+            "econ": 90,
+            "dipl": 100,
+            "govt": 90,
+            "scty": 0
         }
     },
     {
-        "name": "Clay Loam",
+        "name": "Super Heavy",
         "stats": {
-            "econ": 50,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 50
+            "econ": 80,
+            "dipl": 90,
+            "govt": 80,
+            "scty": 0
         }
     },
     {
