@@ -117,5 +117,13 @@ ideologies = [
             "govt": 50,
             "scty": 50
         }
+    {
+        "name": "Modern Landship",
+        "stats": {
+            "econ": 70,
+            "dipl": 80,
+            "govt": 70,
+            "scty": 
+        }
     }
 ];
