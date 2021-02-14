@@ -21,7 +21,7 @@ questions = [
         "question": "Heavy tanks are a waste of resources.", //Classification
         "effect": {
             "econ": 0,
-            "dipl": 5,
+            "dipl": -5,
             "govt": 0,
             "scty": 0
         }
