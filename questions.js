@@ -45,12 +45,12 @@ questions = [
         }
     },
     {
-        "question": "The material feels kind of humid, even when dry.",
+        "question": "Older tanks look better than modern ones.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 5,
-            "scty": -5
+            "govt": 0,
+            "scty": 5
         }
     },
     {
@@ -63,37 +63,37 @@ questions = [
         }
     },
     {
-        "question": "It is hard to crunch up the material.",
+        "question": "Modern tanks are better than older ones.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
-        }
-    },
-    {
-        "question": "If I drop it on the ground from about 30cm or 10 Inches, it spreads out like powder or liquid.",
-        "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 5,
             "scty": -5
         }
     },
     {
-        "question": "The material can go through the gap between my fingers.",
-        "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 5,
-            "scty": -5
-        }
-    },
-    {
-        "question": "The material is a solid.",
+        "question": "It is easier to clear a building with a machinegun than a artillery piece.",
         "effect": {
             "econ": 0,
             "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Light tanks have proven to be far better than heavy tanks.",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The more guns, the better.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
             "govt": 0,
             "scty": 5
         }
