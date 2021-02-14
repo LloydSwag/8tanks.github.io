@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "There are many design choices in older tanks that we should use today.", //Time
+        "question": "There are many good design choices in older tanks that we should use today.", //Time
         "effect": {
             "econ": 0,
             "dipl": 0,
