@@ -100,22 +100,22 @@ ideologies = [
         }
     },
     {
-        "name": "Silt",
+        "name": "Wheeled Monster",
         "stats": {
-            "econ": 0,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 50
+            "econ": 20,
+            "dipl": 100,
+            "govt": 90,
+            "scty": 0
         }
     },
     //Void
     {
-        "name": "Void",
+        "name": "Neutral",
         "stats": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": 50,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
         }
     }
 ];
