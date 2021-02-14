@@ -73,12 +73,12 @@ ideologies = [
         }
     },
     {
-        "name": "Silty Clay",
+        "name": "Landship",
         "stats": {
-            "econ": 20,
-            "dipl": 65,
+            "econ": 70,
+            "dipl": 80,
             "govt": 50,
-            "scty": 50
+            "scty": 20
         }
     },
     {
