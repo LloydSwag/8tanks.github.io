@@ -40,7 +40,7 @@ ideologies = [
         "name": "Medium Tank",
         "stats": {
             "econ": 70,
-            "dipl": 30,
+            "dipl": 40,
             "govt": 60,
             "scty": 0
         }
