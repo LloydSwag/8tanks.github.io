@@ -91,12 +91,12 @@ ideologies = [
         }
     },
      {
-        "name": "Silt Loam",
+        "name": "da Vinci's Tank",
         "stats": {
             "econ": 30,
-            "dipl": 25,
-            "govt": 80,
-            "scty": 50
+            "dipl": 90,
+            "govt": 90,
+            "scty": 0
         }
     },
     {
