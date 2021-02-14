@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "It feels dry, or even warm.",
+        "question": "Tracks are superior to wheels.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "It has a yellowish color.",
+        "question": ".",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "When touching it, it feels quite sticky.",
+        "question": "Heavy tanks are a waste of resources.",
         "effect": {
             "econ": 0,
             "dipl": 5,
