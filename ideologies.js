@@ -110,7 +110,7 @@ ideologies = [
     },
     //Void
     {
-        "name": "Neutral",
+        "name": "N/A",
         "stats": {
             "econ": 50,
             "dipl": 50,
