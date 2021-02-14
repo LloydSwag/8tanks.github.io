@@ -28,12 +28,12 @@ ideologies = [
         }
     },
     {
-        "name": "Sandy Loam",
+        "name": "Light Tank",
         "stats": {
-            "econ": 60,
-            "dipl": 15,
-            "govt": 60,
-            "scty": 50
+            "econ": 40,
+            "dipl": 40,
+            "govt": 50,
+            "scty": 0
         }
     },
     {
