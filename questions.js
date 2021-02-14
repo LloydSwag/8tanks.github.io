@@ -95,7 +95,7 @@ questions = [
             "econ": 0,
             "dipl": 5,
             "govt": 0,
-            "scty": 5
+            "scty": -5
         }
     },
     {
