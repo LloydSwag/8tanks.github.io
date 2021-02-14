@@ -87,7 +87,7 @@ ideologies = [
             "econ": 40,
             "dipl": 80,
             "govt": 50,
-            "scty": 80
+            "scty": 20
         }
     },
      {
