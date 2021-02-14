@@ -82,12 +82,12 @@ ideologies = [
         }
     },
     {
-        "name": "Silty Clay Loam",
+        "name": "P. 1000 Ratte",
         "stats": {
-            "econ": 15,
-            "dipl": 50,
-            "govt": 65,
-            "scty": 50
+            "econ": 100,
+            "dipl": 100,
+            "govt": 90,
+            "scty": 40
         }
     },
      {
