@@ -84,7 +84,7 @@ questions = [
         "question": "Light tanks have proven to be far better than heavy tanks.", //Classification
         "effect": {
             "econ": 0,
-            "dipl": 5,
+            "dipl": -5,
             "govt": 0,
             "scty": 0
         }
