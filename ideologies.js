@@ -30,8 +30,8 @@ ideologies = [
     {
         "name": "Light Tank",
         "stats": {
-            "econ": 40,
-            "dipl": 40,
+            "econ": 70,
+            "dipl": 30,
             "govt": 50,
             "scty": 0
         }
