@@ -82,12 +82,12 @@ ideologies = [
         }
     },
     {
-        "name": "P. 1000 Ratte",
+        "name": "Tsar Tank",
         "stats": {
-            "econ": 100,
-            "dipl": 100,
-            "govt": 90,
-            "scty": 40
+            "econ": 40,
+            "dipl": 80,
+            "govt": 50,
+            "scty": 80
         }
     },
      {
