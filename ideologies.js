@@ -37,12 +37,12 @@ ideologies = [
         }
     },
     {
-        "name": "Sandy Clay Loam",
+        "name": "Medium Tank",
         "stats": {
             "econ": 70,
             "dipl": 30,
-            "govt": 50,
-            "scty": 50
+            "govt": 60,
+            "scty": 0
         }
     },
     {
