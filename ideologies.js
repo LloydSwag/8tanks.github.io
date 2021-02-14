@@ -10,12 +10,12 @@ ideologies = [
         }
     },
     {
-        "name": "Sand",
+        "name": "APC/IFV",
         "stats": {
-            "econ": 100,
-            "dipl": 20,
-            "govt": 50,
-            "scty": 50
+            "econ": 30,
+            "dipl": 30,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
