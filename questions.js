@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "The material has a volcanic origin.",
+        "question": "Germany investing in heavy tanks during WW2 was a good idea.",
         "effect": {
             "econ": 0,
             "dipl": 5,
@@ -153,16 +153,16 @@ questions = [
         }
     },
     {
-        "question": "If a use a hammer to hit on it, it will crack.",
+        "question": "Leonardo da Vinci had some great ideas that should be used in todays tank designs.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": -5
         }
     },
     {
-        "question": "The texture is kind of pointy, as it feels a bit sharp.",
+        "question": "Without tracks, a combat vehicle is nothing.",
         "effect": {
             "econ": 5,
             "dipl": 0,
