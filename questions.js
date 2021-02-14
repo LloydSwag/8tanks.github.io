@@ -120,7 +120,7 @@ questions = [
         "question": "Landcruisers are a viable and realistic concept.", //Classification
         "effect": {
             "econ": 5,
-            "dipl": -5,
+            "dipl": 5,
             "govt": 0,
             "scty": 0
         }
