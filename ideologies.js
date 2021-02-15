@@ -1,10 +1,10 @@
 ideologies = [
 //Powder
     {
-        "name": "Armoured Car",
+        "name": "Light Armoured Car",
         "stats": {
-            "econ": 20,
-            "dipl": 10,
+            "econ": 39,
+            "dipl": 20,
             "govt": 0,
             "scty": 0
         }
@@ -39,7 +39,7 @@ ideologies = [
     {
         "name": "Medium Tank",
         "stats": {
-            "econ": 0,
+            "econ": 30,
             "dipl": 40,
             "govt": 0,
             "scty": 0
@@ -82,19 +82,19 @@ ideologies = [
         }
     },
     {
-        "name": "Tricycle Tank",
+        "name": "Medium Armored Car",
         "stats": {
-            "econ": 49,
-            "dipl": 76,
+            "econ": 39,
+            "dipl": 40,
             "govt": 0,
-            "scty": 24
+            "scty": 0
         }
     },
      {
-        "name": "N/A",
+        "name": "Heavy Armored Car",
         "stats": {
-            "econ": 0,
-            "dipl": 0,
+            "econ": 39,
+            "dipl": 65,
             "govt": 0,
             "scty": 0
         }
