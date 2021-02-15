@@ -21,16 +21,16 @@ ideologies = [
     {
         "name": "Tankette",
         "stats": {
-            "econ": 20,
+            "econ": 0,
             "dipl": 20,
             "govt": 10,
-            "scty": 30
+            "scty": 0
         }
     },
     {
         "name": "Light Tank",
         "stats": {
-            "econ": 70,
+            "econ": 0,
             "dipl": 20,
             "govt": 50,
             "scty": 0
@@ -39,68 +39,68 @@ ideologies = [
     {
         "name": "Medium Tank",
         "stats": {
-            "econ": 70,
+            "econ": 0,
             "dipl": 40,
-            "govt": 60,
+            "govt": 0,
             "scty": 0
         }
     },
     {
         "name": "Heavy Tank",
         "stats": {
-            "econ": 70,
+            "econ": 0,
             "dipl": 61,
-            "govt": 40,
+            "govt": 0,
             "scty": 0
         }
     },
     {
         "name": "Monster",
         "stats": {
-            "econ": 90,
-            "dipl": 100,
-            "govt": 90,
+            "econ": 0,
+            "dipl": 91,
+            "govt": 0,
             "scty": 0
         }
     },
     {
         "name": "Super Heavy",
         "stats": {
-            "econ": 80,
-            "dipl": 90,
-            "govt": 80,
+            "econ": 0,
+            "dipl": 76,
+            "govt": 0,
             "scty": 0
         }
     },
     {
         "name": "Landship",
         "stats": {
-            "econ": 70,
-            "dipl": 80,
-            "govt": 50,
-            "scty": 10
+            "econ": 51,
+            "dipl": 76,
+            "govt": 0,
+            "scty": 24
         }
     },
     {
         "name": "Tsar Tank",
         "stats": {
-            "econ": 40,
-            "dipl": 80,
-            "govt": 50,
-            "scty": 20
+            "econ": 49,
+            "dipl": 76,
+            "govt": 0,
+            "scty": 24
         }
     },
      {
         "name": "da Vinci's Tank",
         "stats": {
-            "econ": 30,
-            "dipl": 90,
-            "govt": 90,
+            "econ": 49,
+            "dipl": 76,
+            "govt": 51,
             "scty": 9
         }
     },
     {
-        "name": "Wheeled Monster",
+        "name": "Monster",
         "stats": {
             "econ": 20,
             "dipl": 100,
