@@ -3,7 +3,7 @@ ideologies = [
     {
         "name": "Armoured Car",
         "stats": {
-            "econ": 10,
+            "econ": 20,
             "dipl": 10,
             "govt": 0,
             "scty": 0
