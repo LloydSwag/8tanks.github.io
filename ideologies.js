@@ -82,7 +82,7 @@ ideologies = [
         }
     },
     {
-        "name": "Tsar Tank",
+        "name": "Tricycle Tank",
         "stats": {
             "econ": 49,
             "dipl": 76,
