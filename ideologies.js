@@ -91,12 +91,12 @@ ideologies = [
         }
     },
      {
-        "name": "da Vinci's Tank",
+        "name": "N/A",
         "stats": {
-            "econ": 49,
-            "dipl": 76,
-            "govt": 51,
-            "scty": 9
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
