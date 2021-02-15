@@ -12,7 +12,7 @@ ideologies = [
     {
         "name": "APC/IFV",
         "stats": {
-            "econ": 30,
+            "econ": 40,
             "dipl": 30,
             "govt": 0,
             "scty": 0
